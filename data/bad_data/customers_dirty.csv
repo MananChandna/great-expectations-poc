@@ -1,0 +1,201 @@
+customer_id,name,email,age,country,signup_date,is_active,credit_score
+3a5cc659-4c35-4738-97e0-d76bb74657e3,Patrick Foley,qjohnson@example.org,20,Russian Federation,2024-03-28,False,785
+dc7a49ea-607c-4f72-b6a4-9cead9cc6474,Erin Goodman,fmurray@example.net,-1,Palestinian Territory,2021-12-11,False,790
+7260478f-d4c0-4faa-a637-13e887f4d5d7,Travis Taylor,mckenzie20@example.net,-1,Bolivia,2024-08-26,False,517
+615ddf90-e1dd-4f73-9a03-371db50e4c10,Caleb Figueroa,chrisgallagher@example.net,78,Faroe Islands,2023-11-28,True,720
+1858ab22-53da-4647-a8b2-75ce8d69b71c,Hunter Robinson,staffordamanda@example.com,35,Qatar,2021-07-10,False,352
+2f51db00-7d79-4a1c-aeb6-b7429dc9ebc1,Mark Mills,myerskyle@example.org,28,Netherlands Antilles,2022-02-22,True,900
+ead5a1c5-b786-47d8-8098-b9719f363c04,Raymond Wang,nicholasallen@example.org,49,Andorra,2022-03-21,False,734
+7cd4f929-35d9-44c0-adfc-abb9ba051320,William Rogers,erinbrown@example.org,74,South Georgia and the South Sandwich Islands,2027-04-15,False,703
+4a0bd536-7a5b-4bcd-9c8d-813d808c31d6,Mary Ramsey,perrydanielexample.com,0,Gibraltar,2024-11-20,False,642
+74245e48-a6de-4937-958f-7e09a639dc4a,Chelsey Clark,hmcmillan@example.org,51,Croatia,2022-06-29,False,694
+1ad3a4ed-dff4-46ae-a52e-af7fdf51bfe4,Frank Smith,alexander37@example.org,57,Bahrain,2021-06-15,False,753
+fcf19e85-2c7a-45b9-b9ef-ca228ceeb222,Diana Hanson,jonesjeffery@example.com,121,Seychelles,2020-06-09,False,662
+7c9659a1-21d5-49f8-a5bc-9374eb9e6f0f,Victoria Garcia,johnathandavis@example.com,0,Norfolk Island,2023-07-10,True,581
+d3d33545-b675-4880-994d-3ad8f873643d,Megan Compton,martinreid@example.net,72,Ghana,2022-06-26,False,627
+ec2fe7d2-bf7d-4c9f-88de-0b3ab538184c,Mary Jones,franklinbrenda@example.com,59,Malawi,2020-03-14,True,559
+f7d243dc-8c7b-486e-9a73-a4a81e5cc16f,Crystal Matthews,hallchristina@example.org,19,Georgia,2024-05-05,False,547
+0db92ecb-1874-4109-ae25-23c813a39143,Jeffrey Sanchez,brownnicholas@example.com,0,Cook Islands,2022-10-11,True,305
+7c029769-a9d0-4d52-bf23-901a404b248f,Dan Johnson,,53,Fiji,2024-01-24,False,1200
+4b6fabcf-f6a1-41ac-9baf-c37a31d4dd54,Richard Williams,swong@example.org,57,Denmark,2022-03-26,False,532
+9a3fa3b2-df0a-4800-9d38-6153f3c9c848,Erin Allen,knoxelizabethexample.org,59,Spain,2023-07-01,False,640
+8893afb3-85b5-41e8-8bd0-3eb3a00eb248,Michelle Franklin,lboyd@example.com,74,Norfolk Island,2020-02-25,True,751
+4a2db0a9-d055-42e6-a131-b25051d3abf7,Sergio Jones,brettbraun@example.org,69,Brunei Darussalam,2024-07-26,False,586
+0eebbd74-2380-4bb6-9d4f-8d43f64cf0e3,Kevin Guerra,joelmiller@example.net,53,Lao People's Democratic Republic,2024-11-10,True,793
+8c075241-5ffa-4b86-ba51-29acc7cb64bd,Nathan Sanchez,catherineturnerexample.net,51,Kiribati,2020-01-15,False,535
+731a4d7c-0ab0-4cbc-bc24-d011161bc325,Christina Huffman,xmiller@example.com,52,Honduras,2021-03-18,True,846
+a30562d5-8297-4810-bd07-4d4604229198,Jeremy Wagner,ywolf@example.com,41,Angola,2022-04-05,True,491
+1c9d52b1-7a75-45bf-bd88-666d0b9d56fc,Jessica Miller,,64,China,2023-05-28,True,553
+f5f00b32-3b7e-41eb-a700-0d742e1ab0fa,John Chavez,ehart@example.org,44,Grenada,2023-05-15,False,610
+7d22bc28-46d4-46fa-a6d4-d657ba27028b,John Moore,adamhensley@example.net,80,Saint Kitts and Nevis,2024-02-25,True,583
+578e0bb3-664c-4c56-87cb-026878248a52,Jared Perry,xwaller@example.com,69,Liechtenstein,2024-05-18,True,786
+f7d243dc-8c7b-486e-9a73-a4a81e5cc16f,William Jones,riddledavid@example.net,32,Central African Republic,2022-07-28,True,100
+b871dfbf-a3ed-4e08-93dd-d698b6649f0b,Jeffrey Scott,william75@example.net,79,Azerbaijan,2024-07-02,False,389
+50150e0e-a447-4049-849f-c24ffb5e0879,Tammy Fitzgerald,timdorsey@example.com,40,Norfolk Island,2020-01-03,False,523
+98b2a475-4728-4bb2-a09e-85bad9f00913,Alyssa Wade,josegibson@example.net,29,Cameroon,2024-07-18,False,330
+a6c7d0ba-4f81-45da-84a1-19c0bae7b51d,Lance Lynn,alexanderwise@example.net,38,Rwanda,2020-07-30,True,444
+dd2e8858-b197-4023-8446-bb84b3f95562,Jennifer Willis,,44,Chad,2022-01-09,True,845
+87b6a6a2-46bb-4d29-8c8b-686397ac1867,Dawn Turner,uwillis@example.com,46,Sao Tome and Principe,2023-07-17,False,510
+2ec15c8e-afa7-4dd7-b291-e3460723ad03,Monica Davis,lisa43@example.net,30,Indonesia,2024-12-29,False,704
+85beae92-94d8-40e5-a0ff-859a94a46d72,Abigail Jackson,esmith@example.net,47,Israel,2021-07-29,False,1000
+05921cd3-c676-44be-9db3-b44fa9685bf2,Mary Quinn,gregorylopez@example.org,62,Congo,2030-06-14,False,742
+85f715c3-43f8-4e20-a3c2-77fdfd2b3f69,Mr. Brian Bradley,jacobbrownexample.org,0,Sudan,2020-03-17,True,523
+8e83ae1f-06c7-4ceb-b119-f8fa83e28643,Deanna Barrera,nalexander@example.org,-5,Trinidad and Tobago,2024-10-21,True,1200
+fbaa1e89-4f8e-4300-a0b1-060bd2913d7a,Angela Miller,hillmatthew@example.net,30,Dominica,2024-08-10,False,570
+760a60ac-02fa-429c-b52e-57718ae3cdd0,Michael Garcia,adamsstephanie@example.net,25,Myanmar,2021-11-18,True,354
+0af11057-3ec1-4045-a614-b30fd7519de2,Amanda Clark,bennettabigail@example.com,200,Venezuela,2024-04-01,False,371
+2af19581-9498-4149-8756-e1becaa6f3bd,Dr. Larry Rogers,yvonne35@example.net,-5,Iran,2024-12-01,True,0
+e8fb7d4b-ba82-4e34-bd96-bbf6ce4ca6d5,Anthony Kelly,linda07@example.net,29,Iran,2023-07-10,False,746
+879edef2-5c62-4d46-a633-9d86273fa86a,Stacy Taylor,meltonjoshuaexample.net,20,Sao Tome and Principe,2022-09-16,True,635
+ec84f7a1-d840-4a3b-827d-804fbc03777d,Isabella Montgomery,qrobertson@example.org,25,Afghanistan,2022-03-13,False,830
+0bb160b1-7497-4690-8048-12a4703819d2,Dr. Robin Smith,morgan57example.org,34,New Caledonia,2029-05-04,False,787
+f35ff487-2e5f-47f1-b2de-fb9854cd1c66,Dr. Robert Bailey,shatfield@example.org,54,Saint Martin,2023-07-22,False,507
+4e03f5f1-00a1-42bf-a90a-cefa833a1722,Lawrence Joseph,andersonlaura@example.com,51,Syrian Arab Republic,2021-02-06,True,1200
+f9692f46-af7f-4342-982f-8d3979503b31,Kimberly Baxter,peggyfriedman@example.com,45,Panama,2020-06-27,False,557
+eb513b15-a275-4221-a9f6-850d9222bbbb,Dana Jackson,garciavictoria@example.org,31,Central African Republic,2024-12-26,False,757
+1e5337e7-3121-4f59-9aac-0b93a206e6ce,Erin Reyes,jeffrey47@example.net,73,British Virgin Islands,2023-09-04,False,576
+3b9cf1b7-b426-4a19-a3db-80a4e482c01b,Tammy Schultz,,150,Tunisia,2027-08-02,True,100
+b6810a43-e7e4-4735-9319-37ae4a6497c1,Kenneth Bradshaw,schneidernicholas@example.net,19,Samoa,2024-07-13,False,487
+6298b8bc-328f-4de2-b4b8-7bdf546d5fec,Jane May,ostokes@example.com,44,Brazil,2020-03-05,True,778
+89372348-dc51-4b4f-8436-935e8b662c0a,Brian Peterson,juliewilson@example.com,19,Brunei Darussalam,2024-01-27,False,840
+a6c7d0ba-4f81-45da-84a1-19c0bae7b51d,Tiffany Ray,collinsbrittany@example.org,48,Tanzania,2021-11-15,False,781
+26a2b6ab-eafc-4683-8a95-ae3858b8ec2b,Jeff Wise,aprilguzman@example.org,21,Botswana,2022-09-11,True,422
+b871dfbf-a3ed-4e08-93dd-d698b6649f0b,Joshua Murray,lisaphillipsexample.org,78,Luxembourg,2020-11-23,True,544
+7b1048d6-b4d9-4f41-85e9-40aae841aa4d,Brittany Campbell,georgekyle@example.net,74,British Virgin Islands,2024-01-12,False,397
+79aa6107-101f-4a2d-85ad-76017c75f902,Ryan Berry,,73,Bahamas,2021-03-23,True,430
+1c8c562d-3ebf-492a-9e4a-1b8587b5b7d2,Mrs. Samantha Clark,isabellawilliams@example.org,30,Togo,2022-10-04,False,559
+c2b70a24-52a3-4c34-b13c-1022c18768df,Mr. William Hopkins,vickiekelley@example.com,41,Jamaica,2023-05-10,False,404
+fae31a9a-1538-4542-b37d-3d35c3b509a3,Wanda Todd,ujones@example.com,62,Finland,2024-02-17,True,100
+f2425d6e-bab3-44ad-bd98-625be28890cb,Chloe Chase,hornjenna@example.com,49,Palau,2022-04-22,False,309
+f7d243dc-8c7b-486e-9a73-a4a81e5cc16f,Chad Dominguez,phyllis33@example.net,39,Congo,2023-11-21,True,801
+49b48b25-4d7b-4751-b38e-782fd541e408,Alexa Barber,gregoryvanessa@example.org,55,Honduras,2020-05-15,True,714
+00222c24-9dbf-48fd-8726-d4deeaacdf57,Jessica Skinner,davisterri@example.org,72,Western Sahara,2023-08-06,False,421
+1494320d-f7c8-40ab-a144-298016ac5479,William Santos,obooker@example.net,74,Iraq,2020-03-02,False,573
+87553976-3987-4895-9265-3fd84b6f9197,Bryan Sanders,hailey26@example.net,121,South Africa,2022-10-12,True,765
+e8fb7d4b-ba82-4e34-bd96-bbf6ce4ca6d5,Ann Ford,,200,Heard Island and McDonald Islands,2021-02-23,False,751
+4bf93b04-36c6-4913-8187-86df70754075,Bruce Martinez,andrewberry@example.net,51,Lesotho,2024-02-05,False,824
+42e63e16-8ec2-416b-80cb-8e93b21f9a8e,Patrick Bauer,patrickcooke@example.net,80,Jordan,2021-02-05,True,533
+e172cd9a-9940-40bb-b354-d25fb53c7b0d,Calvin Nguyen,richardhaynesexample.com,34,Moldova,2022-11-25,False,773
+547f6837-5d09-4206-b37d-fb72210615d3,Rachel Moreno,stonebrenda@example.net,-1,Svalbard & Jan Mayen Islands,2022-06-05,False,591
+576022a9-5480-4238-90be-a49745bf8a3c,Becky Mullins,,62,Albania,2023-10-21,True,598
+782e8116-80da-4ee9-9972-8926e2f33838,Rebecca Martinez,,74,Monaco,2021-06-21,True,790
+60994625-d4c8-4920-af84-0549e2c82724,Paul Miller,huntermichael@example.net,0,Chile,2022-11-18,True,310
+aaa02ff0-becf-4841-91f8-38ab95486fb8,Tony Smith,brandon84example.net,30,Martinique,2020-08-29,False,818
+cac8095c-512e-4e01-8861-f46cbc76c66a,Kenneth Neal,catherine83@example.net,33,Bolivia,2024-06-09,False,1200
+298968d2-f81e-45b0-9197-681946362f37,Amanda Johnson,kevinwall@example.org,33,Netherlands,2024-02-23,True,738
+5a0f0ccd-fb18-45a2-8b19-a6d893672ed9,Leslie Ramirez,qjones@example.com,49,Hong Kong,2024-03-04,False,814
+86df05aa-f2bf-4585-a603-e1dbb479b2b1,Carla Bryant,erica28@example.org,71,Barbados,2021-06-30,False,573
+0f2c8fe8-5aab-46b0-947f-5636fb205465,Debra Schultz,jenniferelliott@example.net,0,Swaziland,2020-03-26,False,520
+143c7188-c4dc-4db8-b805-aed63a07ea65,Carly Underwood,victoria66@example.org,19,Netherlands,2021-02-13,True,900
+2f51db00-7d79-4a1c-aeb6-b7429dc9ebc1,Devin Schmidt,ojones@example.org,47,Guyana,2023-07-06,False,900
+7a37980a-f2a1-4a4d-878c-a4b302a3d764,Paula Thomas,joshuagarcia@example.org,18,Honduras,2024-09-26,False,458
+2325732e-7920-46b6-bfd3-ef94608818d3,Rachel Martinez,brianna71@example.net,45,Guernsey,2023-06-22,True,427
+ca479478-a53e-4b2b-ab80-4cc52d2d4490,Sharon Arnold,mosleygeorgeexample.com,65,Cocos (Keeling) Islands,2022-01-10,True,511
+6659f7af-b937-4df3-8811-e3352fa98349,Patrick Faulkner,iwoods@example.com,71,Algeria,2023-08-22,True,433
+eb34eb26-db59-438f-ba9b-0ad2b98b2ad8,Michelle Sandoval,nicholasmoss@example.org,56,Uruguay,2023-05-09,False,690
+6fc964cc-bcf5-4a27-940c-3f110be8226a,Vanessa Zimmerman,erikabarnes@example.com,30,Cocos (Keeling) Islands,2021-03-24,True,469
+6e2ef99d-b24e-4cd3-b743-400d842aee80,Hector Harrison,joshua68@example.net,76,Turkmenistan,2021-05-18,False,709
+2f51db00-7d79-4a1c-aeb6-b7429dc9ebc1,Crystal Reid,mezarichard@example.com,40,Tanzania,2021-06-26,True,550
+19f56bbe-15ff-4fb2-8e7f-757f7e0d1097,Bobby Blair,martinbrian@example.net,19,France,2022-06-20,True,661
+98b2a475-4728-4bb2-a09e-85bad9f00913,Katherine Baxter,urhodes@example.org,35,Lesotho,2024-07-06,True,484
+fcbeca50-23e1-45d2-9c8a-1465cbe66b89,Mr. Michael Patel Jr.,jensenrhonda@example.net,61,Albania,2022-08-06,True,467
+59784908-5108-4286-8dde-b5ac514af545,Michele Brady,virginiaguerrero@example.net,19,Poland,2020-08-28,True,665
+2b7bacad-72fa-4a93-9911-d853cb89c3a3,Lisa Oconnell,gregoryrichardson@example.org,31,Malaysia,2020-07-10,False,304
+4622febf-9edb-45e0-91d1-624d84731367,Anthony Simpson,nathanielwilson@example.net,19,Egypt,2021-08-21,True,505
+30ec8731-ed58-49df-bdb0-0d38beb5643c,Sarah Hodge,kevin44@example.org,23,Afghanistan,2023-09-22,True,339
+3befee2c-9740-4cf2-ba79-bd588d639090,Laura Robinson,sarah80@example.com,66,Uganda,2023-11-19,False,829
+1f7012cc-1e75-44b0-bfdc-a6ce41d4a84a,Katherine Kelly,wmurphy@example.org,121,Albania,2024-07-12,True,608
+e1c3867f-faa2-4bbd-b8bb-7aee5c1731c9,Nathan Morales,garciatravis@example.org,51,Marshall Islands,2024-11-25,True,1000
+42e63e16-8ec2-416b-80cb-8e93b21f9a8e,Brittany Martinez,xsmith@example.net,54,El Salvador,2025-08-07,True,654
+b06bcc3f-eb76-424b-aeba-4ab2bdb5abb5,James Evans,,37,Botswana,2022-12-22,False,759
+473a808c-a674-4bd6-bcaa-938b0c434891,Mary Gonzales MD,tsmithexample.org,31,Bouvet Island (Bouvetoya),2022-11-23,False,754
+c82711fd-6867-455f-b43b-bb5e15e93b96,Andrew Foster,rachel23@example.com,66,Papua New Guinea,2024-08-15,False,757
+b936fc2e-d1ae-40df-afb8-b7eabc3c0198,Mrs. Katherine Simpson,markduran@example.com,74,Macao,2021-02-22,True,577
+5a14032e-7e9e-4c2e-a37b-1b9ad9b0f4e4,Natalie Petersen,danielrodriguez@example.org,71,Brunei Darussalam,2024-01-07,False,635
+d5b6d457-fb59-4972-bb51-201a59d58baf,Jonathan Saunders,brettgallegos@example.com,33,Nepal,2022-12-13,True,-100
+d086fae2-2b07-441f-8a33-5d16fb6d7a34,Jessica Roberts,bmiller@example.org,72,Niger,2020-06-22,True,797
+c368c4b2-81b4-42ab-810e-e3ab3900a780,Jorge Wright,linvirginia@example.org,27,Papua New Guinea,2024-10-26,True,827
+087d4e6b-ae77-4dfd-aaa9-cc5aef2ef5aa,Christina Mccarthy,hayneswayne@example.org,200,Comoros,2020-10-09,False,581
+09006fef-6d96-4a70-932f-c6ffb221afe0,Leslie Walters MD,richardhill@example.org,72,Vanuatu,2020-09-26,False,400
+86df05aa-f2bf-4585-a603-e1dbb479b2b1,Alan Gonzalez,jamesalicia@example.net,50,North Macedonia,2021-12-04,True,671
+dd2e8858-b197-4023-8446-bb84b3f95562,Courtney Simmons,hicksdawn@example.com,0,Bouvet Island (Bouvetoya),2023-08-17,False,728
+2907b5ce-dc9d-4a01-af9d-71abdcfe4f28,Douglas Bell,dwright@example.org,67,Armenia,2022-12-17,True,644
+be6cd889-243c-416f-8dc8-b5b85b986735,Matthew Morris,thomas91@example.com,75,Colombia,2021-11-24,True,549
+04685560-50e8-49b8-96ea-12601b00e835,John Cook,davisalexanderexample.net,21,Sierra Leone,2022-11-17,True,733
+8f44176c-663c-48c6-9b80-b4841a9d0321,Erin Figueroa,julia98@example.net,0,Holy See (Vatican City State),2024-01-28,False,610
+1b3a9dad-5140-47c3-98c5-7a3c830fdee0,Donald Silva,eatondavid@example.net,34,Netherlands,2024-02-28,False,696
+d3d33545-b675-4880-994d-3ad8f873643d,Kevin Barr,jamesgriffinexample.org,150,Belarus,2023-10-14,False,315
+473a808c-a674-4bd6-bcaa-938b0c434891,Lisa Turner,mmayo@example.net,121,Saint Helena,2023-12-22,False,824
+7d83bcfa-51cb-4d4d-bfd8-8e991ee61464,Carl Barnes,patricia85@example.com,53,Kiribati,2021-07-30,True,633
+d5292cc6-f23f-40f8-87c8-6f68c638036e,Autumn Graham,gbarnes@example.org,65,Chad,2020-03-03,True,561
+150f888e-6947-4c4b-bd4c-e46521f717b9,Melissa Anderson,sosabruce@example.net,36,Comoros,2022-04-13,False,342
+79538040-30de-42cc-9d7f-93e8d42fc296,Jennifer Cohen,martinkaren@example.com,33,Monaco,2021-11-11,True,754
+e3c1869f-fee4-47b4-af49-a5052cab82d5,Jennifer Nelson,adamarmstrong@example.net,77,Qatar,2024-10-08,False,669
+0db92ecb-1874-4109-ae25-23c813a39143,Timothy Hunt,kevin34@example.net,40,Ethiopia,2024-05-24,False,515
+5db31548-8adb-4f81-9eb9-a01e49fe8a9a,Carolyn Williams,kellybowman@example.com,41,Vanuatu,2024-10-29,False,820
+fb7340d3-b9d1-465a-8e51-1bbeabee7227,Shane Williams,veronicaclark@example.org,50,Afghanistan,2020-06-08,True,819
+499c8b49-2930-4873-b19c-df808083f74c,Mackenzie Compton,christopher84example.net,66,Burkina Faso,2023-12-28,True,456
+24b6fbe5-f2d7-42aa-ad4d-fbee60dc03cd,Logan Nguyen,garrettalex@example.com,46,Cyprus,2022-06-17,False,607
+731a4d7c-0ab0-4cbc-bc24-d011161bc325,Diana Scott,medinatiffany@example.net,46,Botswana,2024-04-21,False,808
+dcca60a1-3b7f-45e6-aa51-e07c8ee44412,Melissa Bautista,molly98@example.org,77,Svalbard & Jan Mayen Islands,2022-10-06,False,100
+0e6b2a9c-9161-4638-ada7-f42603d9aaf4,Frederick Harris,omooreexample.net,54,Saint Kitts and Nevis,2024-11-24,True,678
+ed3fe2d6-d852-4516-91e5-a8d3bcdeecde,Charles Mendoza,lwhite@example.org,36,Comoros,2024-12-05,True,1200
+596f5412-f577-4eff-ba5d-dd2348a9a3a9,Terri White,,31,Poland,2030-07-08,False,451
+2b7bacad-72fa-4a93-9911-d853cb89c3a3,Andrea Jones,spencerbrewer@example.com,72,Bolivia,2021-08-13,True,794
+2907b5ce-dc9d-4a01-af9d-71abdcfe4f28,Breanna Christensen,,56,Bouvet Island (Bouvetoya),2022-08-20,True,317
+1858ab22-53da-4647-a8b2-75ce8d69b71c,Pamela Newman,andersonkayla@example.com,49,Cambodia,2020-05-07,False,638
+2f10b8b7-25ab-4994-836c-97c18f8f0947,Linda Sparks,rosariodaniel@example.net,75,Svalbard & Jan Mayen Islands,2022-01-15,False,617
+351a28d3-46de-4ea6-9d20-9ad584fb0621,Michael Harris,cmalone@example.org,121,Gambia,2023-11-10,False,772
+60994625-d4c8-4920-af84-0549e2c82724,Christopher Brown,courtney10@example.org,150,Bosnia and Herzegovina,2021-06-27,True,746
+fcdf14a9-d7d0-4c87-af14-e6d0653b1588,Ashley Tanner,othomas@example.org,45,Denmark,2020-09-28,True,649
+74245e48-a6de-4937-958f-7e09a639dc4a,Charles Rios,sandracohen@example.net,68,Turks and Caicos Islands,2022-05-13,False,420
+7a37980a-f2a1-4a4d-878c-a4b302a3d764,Stephanie Vasquez,walkerstephanie@example.com,27,Guinea-Bissau,2021-11-06,False,1200
+9f301446-4ff7-438b-b62f-99d2724bbcd1,Gene Ward,huangcassandra@example.org,39,Japan,2020-03-02,True,761
+98d593ea-d6d4-4a8c-b313-27650128af03,Linda Shelton,,45,Svalbard & Jan Mayen Islands,2030-10-10,False,321
+546a8e94-65cd-4350-b463-7ae78c5c2d9f,Shawn Nelson,qstanleyexample.net,42,South Georgia and the South Sandwich Islands,2021-09-08,True,458
+8b574971-ea52-4e66-9ff7-2b4ed70029d0,Aaron Fitzpatrick,kimberlythomas@example.org,76,Iceland,2024-05-07,True,802
+44ec7571-9527-4226-b4aa-3fabc2f57578,Robert Bray,wilsonronald@example.net,27,Fiji,2023-10-23,False,706
+eb668405-e373-4d8b-b91d-c922d91a1165,Frank Anderson,fgomez@example.com,41,Liberia,2021-02-08,True,589
+2b5392ff-e420-424d-9b2f-9bbf25660f51,Jennifer Leon,devon36@example.com,70,Mexico,2022-01-23,True,506
+e5a9be7f-25de-4129-8afd-f36f7e44c46b,Joseph Patel PhD,tmiller@example.com,150,Malta,2020-07-30,False,350
+f6ce0556-fbac-40bd-b5f2-e4bade414f81,Melissa Goodman,youngaaron@example.org,21,Guyana,2021-11-25,False,673
+26a2b6ab-eafc-4683-8a95-ae3858b8ec2b,Tina Mccall,,39,French Polynesia,2023-02-12,True,596
+4a0bd536-7a5b-4bcd-9c8d-813d808c31d6,Russell Arnold,osanchez@example.org,40,San Marino,2021-12-29,False,672
+879edef2-5c62-4d46-a633-9d86273fa86a,Victor Padilla,squinnexample.com,77,Holy See (Vatican City State),2025-09-21,True,425
+ce82f2d6-52b1-420d-bd46-bb43833d0678,Brian Perkins,kmonroe@example.org,45,Cameroon,2023-02-17,True,508
+3c47bd51-c28f-467a-aeb7-5eac7ef08fed,Bob Jones,,41,Samoa,2024-06-14,False,724
+aaa02ff0-becf-4841-91f8-38ab95486fb8,Joseph Rush,,150,Slovenia,2029-08-22,True,664
+ca479478-a53e-4b2b-ab80-4cc52d2d4490,Alexis Rodriguez,ibarraantonio@example.org,66,Macao,2020-01-16,False,393
+3171088b-3917-4397-8e25-3d0528ada066,James Henderson,,19,Macao,2022-10-26,False,352
+523cf44d-67e1-43ad-85bb-9158972d09db,Darren Huynh,teresa86@example.org,36,Samoa,2021-02-15,True,785
+6b5a9eb7-6260-4471-87b7-7a76a8ef61c3,Manuel Robinson,lynndaugherty@example.net,23,Tajikistan,2022-01-28,False,782
+fb7340d3-b9d1-465a-8e51-1bbeabee7227,Michael Woods,kwilcox@example.org,53,Spain,2021-10-19,True,395
+58222781-7dfe-4c2e-a19d-1e6eccfbd19b,Jeff Nelson,,58,Antarctica (the territory South of 60 deg S),2024-01-10,False,537
+142037c8-24b9-4c3c-93b2-5e2a317466de,Christopher Rodriguez,carlaavila@example.com,32,Comoros,2022-03-11,False,347
+7260478f-d4c0-4faa-a637-13e887f4d5d7,Margaret Johnson,christopher99@example.org,67,Mongolia,2023-06-15,True,370
+7b1048d6-b4d9-4f41-85e9-40aae841aa4d,Mrs. Amber Davis,alan54@example.com,-1,Macao,2023-10-24,False,336
+4b5803bc-097a-4bac-9755-6f7c2acccf30,Paul Swanson,jacquelinedavis@example.com,51,Ukraine,2023-03-25,False,325
+986c1d65-256b-4ff3-a1da-55d2e8da65e4,Ashlee Aguirre,andrewflynn@example.com,-1,Namibia,2020-06-29,True,677
+8de349fe-f22c-40f3-87d5-e03089eea1e0,Amanda Martin,omiller@example.org,41,Zambia,2024-06-06,True,380
+6298b8bc-328f-4de2-b4b8-7bdf546d5fec,Stacey Aguirre,kaylamartin@example.net,23,Maldives,2020-08-09,False,509
+02c0dcd4-6f8a-455e-9c05-278304af1a3f,Lisa Mills PhD,vfloyd@example.com,29,Guyana,2020-03-30,True,715
+208a55bb-97eb-4264-bedd-94472b8e707e,Teresa Williams,nallen@example.net,36,Belarus,2020-04-09,True,494
+7732c80a-6a4d-44be-8b17-e1f9cd7f6e4c,Latasha Gamble,ballarddouglas@example.com,61,Mexico,2023-10-20,True,522
+761281a9-449b-499b-a492-772d7ad7fd50,Rebecca Jacobson,udavis@example.org,78,Vietnam,2023-03-14,False,548
+173cb661-a19a-42e5-ac57-e5bd68bac9f0,Barry Ray,christopher27@example.com,49,Lebanon,2023-04-18,True,489
+8572eca8-87e8-4a1c-b014-1acb036e11a3,Pamela Ramos,shelbybonilla@example.com,150,Armenia,2020-01-05,True,900
+780c4a79-5b1b-4d1a-a4b9-d67b3d98e8af,Dustin Ortiz,,51,Zambia,2020-12-13,True,845
+40330903-5ba7-49cd-97b4-682699666088,Bradley Gutierrez,rbaker@example.org,57,Niger,2021-03-08,False,590
+65aa3d28-13aa-4e28-a265-296f51ff43fb,Amy Gibbs,,78,Cayman Islands,2022-07-10,True,722
+c5c5010c-232c-4cc8-8874-6a9e39aa3a47,Sarah Walker,wcaldwell@example.com,67,Lao People's Democratic Republic,2022-07-16,False,713
+bf44846e-581e-486f-8868-0dc282c55283,Stephanie Marshall,,33,Seychelles,2024-03-11,False,438
+439353bd-feda-4977-8634-119ad213c768,James Brown,wendy73@example.net,65,Saint Vincent and the Grenadines,2020-01-17,True,606
+37d60812-25c5-44d7-ae6f-20e82caa653d,Donald Johnson,stacythomas@example.org,50,Ghana,2023-12-03,True,490
+5ec5cd36-2105-4d9c-86d3-bd448174a89d,Victoria Schroeder,mayermichael@example.com,36,Lebanon,2021-01-16,False,745
+b7a7f2a0-75d3-4bb4-a3a9-f9fd59aec4e5,Daniel Johnson,onelson@example.org,36,Belize,2022-09-11,False,1000
+6b5a9eb7-6260-4471-87b7-7a76a8ef61c3,Donald Miller,hsavage@example.org,64,Paraguay,2024-07-29,False,100
+2ec15c8e-afa7-4dd7-b291-e3460723ad03,Cathy Brown,wpeterson@example.com,35,Chad,2028-01-11,True,563
+2b5392ff-e420-424d-9b2f-9bbf25660f51,Tom Olson,tammykim@example.net,47,Montserrat,2023-08-20,True,470
+fb7340d3-b9d1-465a-8e51-1bbeabee7227,Adam Logan,christiancontreras@example.net,-5,Cameroon,2022-10-10,False,716
+4600aa3a-ba5e-47b1-9d10-6fb0c9e9d0d0,William Mcmillan,alexis72@example.com,33,Tonga,2022-06-24,False,830
+976c9882-da05-4129-a229-95bff1c01382,Ricky Craig,abigail07@example.org,23,North Macedonia,2023-10-30,False,754
